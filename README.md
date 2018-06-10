@@ -19,4 +19,4 @@ Step 4. Wait until the system process the query and speak the result.
 
 # See in action    
 Click on the below image to see the system in action       
-[![Demonstration](https://www.dropbox.com/s/k4kphe0x9ldz93a/pg_voice.png)](https://youtu.be/XG_JuRgAbj8)       
+[![Demonstration](https://photos-2.dropbox.com/t/2/AADfjkg4wcNJ3lovei6mZzwVIgaQCGBzCq-4kt-O4w5wDg/12/725037021/png/32x32/1/_/1/2/pg_voice.png/ELDVossHGEwgAigC/dCmxzn1h9V8GLtudkPjs4kIi7KryEWhv1-UrA-46I1w?preserve_transparency=1&size=1280x960&size_mode=3)](https://youtu.be/XG_JuRgAbj8)       
