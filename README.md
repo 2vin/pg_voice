@@ -18,4 +18,5 @@ Step 3. Once keyword is detected, try any of the following commands to test the 
 Step 4. Wait until the system process the query and speak the result.       
 
 # See in action    
-[![Demonstration](https://he-s3.s3.amazonaws.com/media/sprint/pg-click-predict-innovate/team/385834/b9f064c4.JPG)](https://youtu.be/XG_JuRgAbj8)       
+Click on the below image to see the system in action       
+[![Demonstration](https://www.dropbox.com/s/k4kphe0x9ldz93a/pg_voice.png?dl=0)](https://youtu.be/XG_JuRgAbj8)       
